@@ -10,8 +10,8 @@
 
 - [ ] 論語
 - [ ] 孟子
-- [ ] 大學
-- [ ] 中庸
+- [x] :white_check_mark: 大學
+- [x] :white_check_mark: 中庸
 - [ ] 荀子
 - [ ] 孔子家語
 - [x] :white_check_mark: 詩經
