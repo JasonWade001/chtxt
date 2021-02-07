@@ -112,6 +112,7 @@
 - [ ] 千家詩
 - [x] :white_check_mark: 弟子規
 - [ ] 幼學瓊林
+- [x] :white_check_mark: 李氏蒙求 
 - [x] :white_check_mark: 聲律啟蒙
 - [x] :white_check_mark: 笠翁對韻
 - [ ] 增廣賢文
