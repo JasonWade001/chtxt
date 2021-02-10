@@ -6,7 +6,7 @@
 
 ### 儒家
 
-- [ ] 論語
+- [x] :white_check_mark: 論語
 - [ ] 孟子
 - [x] :white_check_mark: 大學
 - [x] :white_check_mark: 中庸
