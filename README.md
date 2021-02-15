@@ -112,7 +112,7 @@
 
 ### 佛教
 
-- [ ] 金剛經
+- [x] :white_check_mark: 金剛經
 - [x] :white_check_mark: 般若波羅蜜多心經
 
 ### 字書訓詁
