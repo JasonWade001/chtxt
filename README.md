@@ -58,7 +58,8 @@
 
 ### 史書
 
-- [ ] 史記
+- [x] :white_check_mark: 史記
+- [x] :white_check_mark: 史記三家注
 - [ ] 漢書
 - [ ] 後漢書
 - [x] :white_check_mark: 三國志
