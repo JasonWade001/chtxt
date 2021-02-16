@@ -172,8 +172,8 @@
 ### 小說
 
 - [ ] 水滸傳
-- [ ] 三國演義
-- [ ] 西遊記
+- [x] :white_check_mark: 三國演義
+- [x] :white_check_mark: 西遊記
 - [ ] 紅樓夢
 - [ ] 金瓶梅
 - [x] :white_check_mark: 世說新語
