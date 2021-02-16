@@ -154,7 +154,7 @@
 - [x] :white_check_mark: 五字鑒
 - [x] :white_check_mark: 唐詩三百首
 - [x] :white_check_mark: 宋詞三百首
-- [x] :white_check_mark: 急就篇
+- [x] :white_check_mark: 急就章
 
 ### 詩詞
 
