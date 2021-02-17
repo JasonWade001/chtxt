@@ -185,6 +185,7 @@
 - [ ] 菜根譚
 - [ ] 小窗幽記
 - [ ] 圍爐夜話
+- [x] :white_check_mark: 笑府
 - [x] :white_check_mark: 笑林廣記
 - [ ] 香豔叢書 
 
