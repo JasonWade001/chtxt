@@ -114,7 +114,7 @@
 - [ ] 釋名
 - [ ] 玉篇殘卷
 - [x] :white_check_mark: 說文解字
-- [ ] 五經文字
+- [x] :white_check_mark: 五經文字
 - [x] :white_check_mark: 一切經音義
 - [ ] 龍龕手鏡 
 - [x] :white_check_mark: 大廣益會玉篇
@@ -211,3 +211,5 @@
 ⿻
 ⿲
 ⿳
+
+#### 待補充字：□
